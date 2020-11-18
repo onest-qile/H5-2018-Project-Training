@@ -9,7 +9,7 @@
 |7|一起组|韩雨萌（组长），赵玥，高天，刘雪亭，胡英杰，马子朋|https://gitee.com/han-yumeng/project-trainning|云裳|
 |8|花园6宝宝|赵健（组长），陈欣，李宁，卢冰，齐盼盼，王若冰|https://gitee.com/zhao_jiann/ELife|乐易|
 |9|非常3+1|柴林彤（组长） 郝天恒 崔宫健 贺爽|https://github.com/chailintongLYN/Software-group|我为前端狂|
-|10|信邮|李慧超（组长）、刘新彤、刘影、荣晓红、刘紫璐|https://gitee.com/li-huichao/project-training|信邮搬运工|
+|10|酒醉的蝴蝶|李慧超（组长）、刘新彤、刘影、荣晓红、刘紫璐|https://gitee.com/li-huichao/project-training|信邮|
 |11|饭堂小分队|孙乐（组长）胡金娜、程思雨、许洁茹、王冰|https://gitee.com/greatestle/sprouting-point|萌点|
 |12|一路向上吧打工人|张辰敏（组长），李明  谢韵霏  刘淼李双双|https://github.com/2018011904zcm/TimeRecord|拾光打卡|
 |13|猛虎嗅蔷薇|李项宇（组长），刘琳琳  刘佳汐  张朝会  李欣雨  方誉蔓|https://github.com/lixiangyuSupreme/xiaodada|嗒嗒我自己|
