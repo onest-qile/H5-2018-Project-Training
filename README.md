@@ -6,8 +6,8 @@
 |4|不讲武德警告|马金鹏（组长）、马越颖，尚格格，林晨阳，冯泽涛，唐博凡|https://github.com/jinpengfeitongxue/Avengers|社区惠享购|
 |5|项目合伙人|张金宇（组长）、李亚蔓，曹静，王琳，刘亚琳|https://github.com/1zhangjinyu/416team|擅食轻减|
 |6|champion|贡伟涛（组长） 王琳旗，赵泽敏，张宏博，郭明泽，崔彤昊|https://github.com/taochallenge/champion|遇TA|
-|7|一起组|韩雨萌（组长），赵玥，高天，刘雪亭，胡英杰，马子朋|https://gitee.com/han-yumeng/project-trainning.git|云裳|
-|8|花园6宝宝|赵健（组长），陈欣，李宁，卢冰，齐盼盼，王若冰|https://gitee.com/zhao_jiann/little-lion|乐易|
+|7|一起组|韩雨萌（组长），赵玥，高天，刘雪亭，胡英杰，马子朋|https://gitee.com/han-yumeng/project-trainning|云裳|
+|8|花园6宝宝|赵健（组长），陈欣，李宁，卢冰，齐盼盼，王若冰|https://gitee.com/zhao_jiann/ELife|乐易|
 |9|非常3+1|柴林彤（组长） 郝天恒 崔宫健 贺爽|https://github.com/chailintongLYN/Software-group|我为前端狂|
 |10|信邮|李慧超（组长）、刘新彤、刘影、荣晓红、刘紫璐|https://gitee.com/li-huichao/project-training|信邮搬运工|
 |11|饭堂小分队|孙乐（组长）胡金娜、程思雨、许洁茹、王冰|https://gitee.com/greatestle/sprouting-point|萌点|
