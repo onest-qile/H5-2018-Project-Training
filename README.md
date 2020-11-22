@@ -1,6 +1,6 @@
 ﻿| 组号 | 组名 | 组员 | 仓库地址 | 项目 |
 |:---:|:---:|:----|:---:|:---:|
-|1|百分百被空手接白刃|刘志伟（组长）季雨葭、付焘、杨乐、罗梦莹|https://gitee.com/white-cie/astudy|AStudy|
+|1|百分百被空手接白刃|刘志伟（组长）季雨葭、付焘、杨乐、罗梦莹|https://gitee.com/white-cie/astudy|百果园|
 |2|单身狗联盟|赵鸿超（组长） 杨雨薇、李佳美、梁雅洁、韩华允|https://github.com/sanyecaoorganization/shixunxiangmu|简礼|
 |3|if(!什么都会)|李金桀(组长) 邢宇、林文钦、张庆梁|https://gitee.com/xing-yuyu/project-training-|小食潭记|
 |4|不讲武德警告|马金鹏（组长）、马越颖，尚格格，林晨阳，冯泽涛，唐博凡|https://github.com/jinpengfeitongxue/Avengers|社区惠享购|
