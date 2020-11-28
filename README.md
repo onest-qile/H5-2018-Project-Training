@@ -14,7 +14,7 @@
 |12|一路向上吧打工人|张辰敏（组长），李明  谢韵霏  刘淼李双双|https://github.com/2018011904zcm/TimeRecord|拾光打卡|
 |13|猛虎嗅蔷薇|李项宇（组长），刘琳琳  刘佳汐  张朝会  李欣雨  方誉蔓|https://github.com/lixiangyuSupreme/xiaodada|嗒嗒我自己|
 |14|快乐H5|何帅辰（组长） 付美，陈嘉璇，黄凯欣，高焕|https://github.com/heshuaichen/-H5|幼儿保教线上交互平台|
-|15|淼燚（yì）队|杨麒平（组长）范美茹，赵芸卉，李星，薛子玥|https://github.com/yangqiping/We-are-No.1|初探星辰|
+|15|淼燚（yì）队|杨麒平（组长）范美茹，赵芸卉，李星，薛子玥|https://gitee.com/yang-qiping/We-are-No.1|初探星辰|
 |16|我们仨一队|李明容（组长）史智凡 王一兰|https://gitee.com/lmr2022/future3richgirls|我去博物馆|
 |17|KDoing|赵炳森 （组长） 邓警方 苏韩 柴文欣|https://github.com/474073456/17-KDoing|KDoing|
 |18|加油打工人|蔡孟婷（组长），申冰洁，乔晓灿，步臣龙|https://gitee.com/caimengting123/project-management|笔尖|
