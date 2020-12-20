@@ -11,7 +11,7 @@
 |9|非常3+1|柴林彤（组长） 郝天恒 崔宫健 贺爽|https://github.com/chailintongLYN/Software-group|我为前端狂|
 |10|酒醉的蝴蝶|李慧超（组长）、刘新彤、刘影、荣晓红、刘紫璐|https://gitee.com/li-huichao/project-training|信邮|
 |11|饭堂小分队|孙乐（组长）胡金娜、程思雨、许洁茹、王冰|https://gitee.com/greatestle/sprouting-point|萌点|
-|12|一路向上吧打工人|张辰敏（组长），李明  谢韵霏  刘淼李双双|https://github.com/2018011904zcm/TimeRecord|拾光打卡|
+|12|一路向上吧打工人|张辰敏（组长），李明  谢韵霏  刘淼李双双|https://gitee.com/zcmnb/TimeRecord|拾光打卡|
 |13|猛虎嗅蔷薇|李项宇（组长），刘琳琳  刘佳汐  张朝会  李欣雨  方誉蔓|https://github.com/lixiangyuSupreme/xiaodada|嗒嗒我自己|
 |14|快乐H5|何帅辰（组长） 付美，陈嘉璇，黄凯欣，高焕|https://github.com/heshuaichen/-H5|幼儿保教线上交互平台|
 |15|淼燚（yì）队|杨麒平（组长）范美茹，赵芸卉，李星，薛子玥|https://gitee.com/yang-qiping/We-are-No.1|初探星辰|
